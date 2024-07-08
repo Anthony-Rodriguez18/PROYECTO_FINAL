@@ -30,4 +30,5 @@ Este programa implementa un QuadTree para buscar aristas geoespaciales cercanas 
 1. Compilar el programa (`g++ main.cpp -o quadtree`).
 2. Ejecutar el programa (`./quadtree`).
 3. Introducir latitud y longitud para puntos de consulta.
-4. El programa devolverá la arista más cercana a cada punto de consulta junto con la distancia perpendicular al punto de consulta.
+4. EJECUTAR MAP.IPYB EN COLAB para poder OBSERVAR IMAGENES
+5. El programa devolverá la arista más cercana a cada punto de consulta junto con la distancia perpendicular al punto de consulta.
